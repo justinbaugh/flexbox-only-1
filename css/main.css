@@ -117,7 +117,7 @@ footer {
 }
 
 main {
-  background-color: #ccc;
+  background-color: #666445;
   height: 250px;
   width: 100%;
 }
@@ -144,11 +144,17 @@ main {
     align-items: center;
   color: #fff;
   line-height: 1.5em;
-  font-size: 1.6em;
-  background-color: #f16059;
+  font-size: 1.4em;
+  background-color: #339966;
   width: 30%;
   height: 200px;
 }
+
+.flex-items p {
+    padding: 0 1em;
+    margin: auto 1em;
+}
+
 
 /* ==========================================================================
    Helper classes
